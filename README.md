@@ -16,3 +16,5 @@
 ## Week 3
 
 - Lecture Slides: [Python Data Structures, IDE and Debugger](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20CEGE0096%20Python%20Data%20Structures%2C%20IDE%20and%20Debugger.pdf)
+- Practical Notebook: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm.ipynb)
+- Practical Notebook with Solutions: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm%20with%20Solutions.ipynb)
