@@ -29,3 +29,4 @@
 
 - Lecture Slides: [Geometry with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20CEGE0096%20Geometry%20with%20Python.pdf)
 - Practical Notebook: [Drawing with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Drawing%20with%20Python.ipynb)
+- Practical Notebook with Solutions: [Drawing with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Drawing%20with%20Python.ipynb)
