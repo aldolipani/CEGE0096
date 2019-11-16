@@ -45,7 +45,7 @@ After the environment has been created, activate the environment.
 **Mac/Linux:**
 
 ```
-(base)$ source activate geospatial
+(base)$ conda activate geospatial
 ```
 
 In future whenever you see the command `activate`, Mac/Linux users should type `source activate`.
