@@ -35,6 +35,7 @@
 
 - Lecture Slides: [Geospatial Modelling](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20CEGE0096%20Geospatial%20Modelling.pdf)
 - Practical Notebook: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas.ipynb)
+- Practical Notebook with Solutions: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas%20with%20Solutions.ipynb)
 
 ## Week 7
 
