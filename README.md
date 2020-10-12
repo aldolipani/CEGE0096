@@ -11,7 +11,7 @@
 
 ## Week 2
 
-- Lecture Slides: [Python and Version Control](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/2%20-%20CEGE0096%20Python%20and%20Version%20Control.pptx)
+- Lecture Slides: [Python and Version Control](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/2%20-%20Python%20and%20Version%20Control.pptx)
 - Handout: [Using a Virtual Machine](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/Using%20a%20VM.md)
 - Practical Notebook: [Python Basics (II), Git and GitHub](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/2%20-%20Python%20Basics%20(II)%2C%20Git%20and%20GitHub.ipynb)
 
