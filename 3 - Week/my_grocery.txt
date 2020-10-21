@@ -1,0 +1,3 @@
+apple 5
+kiwi 12
+cereals 2

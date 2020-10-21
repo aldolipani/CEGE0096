@@ -20,11 +20,11 @@
 ## Week 3
 
 - Lecture Slides: [Python Data Structures, IDE and Debugger](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%2C%20IDE%20and%20Debugger.pptx)
+- Solutions: [Introduction (Programming and Python)](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Solutions.pptx)
 - Practical Notebook: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm.ipynb)
-
-<!---
 - Practical Notebook with Solutions: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm%20with%20Solutions.ipynb)
 
+<!---
 ## Week 4
 
 - Lecture Slides: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20CEGE0096%20Object-Oriented%20Programming.pdf)
