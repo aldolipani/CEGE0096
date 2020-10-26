@@ -27,7 +27,7 @@
 
 ## Week 4
 
-- Lecture Slides: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20CEGE0096%20Object-Oriented%20Programming.pptx)
+- Lecture Slides: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20Object-Oriented%20Programming.pptx)
 - Practical Notebook: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20Object-Oriented%20Programming.ipynb)
 
 <!---
