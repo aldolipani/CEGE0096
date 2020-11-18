@@ -36,15 +36,15 @@
 
 - Lecture Slides: [Geometry with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Geometry%20with%20Python.pptx)
 - Practical Notebook: [Drawing with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Drawing%20with%20Python.ipynb)
-
-<!---
-- Practical Notebook with Solutions: [Drawing with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Drawing%20with%20Python.ipynb)
+- Practical Notebook with Solutions: [Drawing with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Drawing%20with%20Python%20with%20Solutions.ipynb)
 
 ## Week 6
 
-- Lecture Slides: [Geospatial Modelling](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20CEGE0096%20Geospatial%20Modelling.pdf)
+- Lecture Slides: [Geospatial Modelling](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20Geospatial%20Modelling.pptx)
 - Practical Notebook: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas.ipynb)
 - Practical Notebook with Solutions: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas%20with%20Solutions.ipynb)
+
+<!---
 
 ## Week 7
 
