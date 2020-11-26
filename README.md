@@ -44,8 +44,6 @@
 - Practical Notebook: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas.ipynb)
 - Practical Notebook with Solutions: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas%20with%20Solutions.ipynb)
 
-
-
 ## Week 7
 
 - Lecture Slides: [Vector and Raster Representations](https://github.com/aldolipani/CEGE0096/blob/master/7%20-%20Week/7%20-%20Vector%20and%20Raster%20Representations.pdf)
