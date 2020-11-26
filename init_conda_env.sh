@@ -1,3 +1,3 @@
 #!/bin/bash
 
-conda env create --file geospatial.yml
+conda env create --file geospatial.lin.yml

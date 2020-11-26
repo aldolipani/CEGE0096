@@ -1,0 +1,1 @@
+conda env create --file geospatial.win.yml
