@@ -24,7 +24,6 @@
 - Practical Notebook: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm.ipynb)
 - Practical Notebook with Solutions: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm%20with%20Solutions.ipynb)
 
-
 ## Week 4
 
 - Lecture Slides: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20Object-Oriented%20Programming.pptx)
@@ -55,7 +54,4 @@
 
 - Lecture Slides: [Tree and Graph Representations](https://github.com/aldolipani/CEGE0096/blob/master/8%20-%20Week/8%20-%20Tree%20and%20Graph%20Representations.pptx)
 - Practical Notebook: [RTree and NetworkX](https://github.com/aldolipani/CEGE0096/blob/master/8%20-%20Week/8%20-%20RTree%20and%20NetworkX.ipynb)
-
-<!---
 - Practical Notebook with Solutions: [RTree and NetworkX](https://github.com/aldolipani/CEGE0096/blob/master/8%20-%20Week/8%20-%20RTree%20and%20NetworkX%20with%20Solutions.ipynb)
--->
