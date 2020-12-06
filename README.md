@@ -49,7 +49,6 @@
 - Practical Notebook: [PyProj, Shapely, GeoPandas, and Rasterio](https://github.com/aldolipani/CEGE0096/blob/master/7%20-%20Week/7%20-%20PyProj%2C%20Shapely%2C%20GeoPandas%2C%20and%20Rasterio.ipynb)
 - Practical Notebook with Solutions: [PyProj, Shapely, GeoPandas, and Rasterio](https://github.com/aldolipani/CEGE0096/blob/master/7%20-%20Week/7%20-%20PyProj%2C%20Shapely%2C%20GeoPandas%2C%20and%20Rasterio%20with%20Solutions.ipynb)
 
-
 ## Week 8
 
 - Lecture Slides: [Tree and Graph Representations](https://github.com/aldolipani/CEGE0096/blob/master/8%20-%20Week/8%20-%20Tree%20and%20Graph%20Representations.pptx)
