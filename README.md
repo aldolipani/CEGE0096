@@ -57,5 +57,5 @@
 
 ## Week 9
 
-- Lecture Slides: [Tree and Graph Representations](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.pptx)
-- Practical Notebook: [RTree and NetworkX](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.ipynb)
+- Lecture Slides: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.pptx)
+- Practical Notebook: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.ipynb)
