@@ -59,3 +59,4 @@
 
 - Lecture Slides: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.pptx)
 - Practical Notebook: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.ipynb)
+- Practical Notebook with Solutions: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms%20with%20Solutions.ipynb)
