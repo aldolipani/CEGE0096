@@ -61,7 +61,7 @@
 - Practical Notebook: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.ipynb)
 - Practical Notebook with Solutions: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms%20with%20Solutions.ipynb)
 
-# Week 10
+## Week 10
 
 - Industry Talk by Dr. Colin MacLellan (Siemens): [Finding High Quality Geospatial Data](https://github.com/aldolipani/CEGE0096/blob/master/10%20-%20Week/10.1%20-%20Finding%20High%20Quality%20Geospatial%20Data.pptx)
-- Industry Talk by Federico Padua (Integration Alpha GmbH): From science to business and cool applications of GIS
+- Industry Talk by Federico Padua (Integration Alpha GmbH): From Science to Business and Cool Applications of GIS
