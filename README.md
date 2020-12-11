@@ -63,5 +63,5 @@
 
 ## Week 10
 
-- Industry Talk by Dr. Colin MacLellan (Siemens): [Finding High Quality Geospatial Data](https://github.com/aldolipani/CEGE0096/blob/master/10%20-%20Week/10.1%20-%20Finding%20High%20Quality%20Geospatial%20Data.pptx)
+- Industry Talk by Dr. Colin McLellan (Siemens): [Finding High Quality Geospatial Data](https://github.com/aldolipani/CEGE0096/blob/master/10%20-%20Week/10.1%20-%20Finding%20High%20Quality%20Geospatial%20Data.pptx)
 - Industry Talk by Federico Padua (Integration Alpha GmbH): From Science to Business and Cool Applications of GIS
